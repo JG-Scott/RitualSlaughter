@@ -1,0 +1,90 @@
+[
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\InventoryWeaponsTest.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\InventoryWeaponsTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\InventoryWeaponsTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\Private\\BowyerWatsonTriangulation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\Private\\GenerateRandomPoints.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\Private\\GenerateRoomPoints.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\Private\\PrimsMazeGenerator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\Public\\BowyerWatsonTriangulation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\Public\\GenerateRandomPoints.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\Public\\GenerateRoomPoints.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\Source\\InventoryWeaponsTest\\Public\\PrimsMazeGenerator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\johnn\\OneDrive\\Documents\\Unreal Projects\\InventoryWeaponsTest\\.vscode\\compileCommands_Default\\InventoryWeaponsTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
